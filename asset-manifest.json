@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/candle_stock_dashboard/static/css/main.8befe9c6.css",
+    "main.js": "/candle_stock_dashboard/static/js/main.a485bc36.js",
+    "index.html": "/candle_stock_dashboard/index.html",
+    "main.8befe9c6.css.map": "/candle_stock_dashboard/static/css/main.8befe9c6.css.map",
+    "main.a485bc36.js.map": "/candle_stock_dashboard/static/js/main.a485bc36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8befe9c6.css",
+    "static/js/main.a485bc36.js"
+  ]
+}
